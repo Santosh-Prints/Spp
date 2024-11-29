@@ -120,41 +120,6 @@ export const Cards = [
     name: "Shadi Card",
   },
   {
-    id: 3,
-    cover: "../images/Cards/c3.jpg",
-    name: "Shadi Card",
-  },
-  {
-    id: 4,
-    cover: "../images/Cards/c4.jpg",
-    name: "Shadi Card",
-  },
-  {
-    id: 5,
-    cover: "../images/Cards/c5.jpg",
-    name: "Shadi Card",
-  },
-  {
-    id: 6,
-    cover: "../images/Cards/c6.jpg",
-    name: "Shadi Card",
-  },
-  {
-    id: 7,
-    cover: "../images/Cards/c7.jpg",
-    name: "Shadi Card",
-  },
-  {
-    id: 8,
-    cover: "../images/Cards/c8.jpg",
-    name: "Box",
-  },
-  {
-    id: 9,
-    cover: "../images/Cards/c9.jpg",
-    name: "Sweet Box",
-  },
-  {
     id: 10,
     cover: "../images/Cards/c10.jpg",
     name: "Tokrey",
@@ -204,31 +169,7 @@ export const Cards = [
     cover: "../images/Cards/c19.jpg",
     name: "Shadi Card",
   },
-  {
-    id: 20,
-    cover: "../images/Cards/c20.jpg",
-    name: "Shadi Card",
-  },
-  {
-    id: 21,
-    cover: "../images/Cards/c21.jpg",
-    name: "Shadi Card",
-  },
-  {
-    id: 22,
-    cover: "../images/Cards/c22.jpg",
-    name: "Shadi Card",
-  },
-  {
-    id: 23,
-    cover: "../images/Cards/c23.jpg",
-    name: "Shadi Card",
-  },
-  {
-    id: 24,
-    cover: "../images/Cards/c24.jpg",
-    name: "Shadi Card",
-  },
+  
   {
     id: 25,
     cover: "../images/Cards/1.jpeg",
